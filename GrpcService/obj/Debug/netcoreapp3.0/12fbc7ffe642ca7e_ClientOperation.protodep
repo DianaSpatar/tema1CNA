@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp3.0/ClientOperation.cs \
+obj\Debug\netcoreapp3.0/ClientOperationGrpc.cs: Protos/ClientOperation.proto
